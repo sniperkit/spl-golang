@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/datalayer/util"
+	"github.com/datalayer/go-school/util"
 )
 
 func main() {
